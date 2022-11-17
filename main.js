@@ -1,7 +1,7 @@
 const minimist = require("minimist");
 const configfile = require("./config.json");
 
-const version = "1.0";
+const version = "1.0.1";
 
 let args = minimist(process.argv.slice(2), {
   string: ["id", "state", "details", "large", "small", "largetext", "smalltext"],
