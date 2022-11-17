@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "minimist": "^1.2.7"
+  },
+  "name": "customdiscordrp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "filyx0",
+  "license": "ISC",
+  "description": ""
+}
