@@ -4,7 +4,7 @@ title CustomDiscordRP V1.0.1
 
 cd NULL
 
-echo Before starting the SCript press on 'install.bat' file!
+echo Before starting the Script press on 'install.bat' file!
 pause > null
 cls
 
