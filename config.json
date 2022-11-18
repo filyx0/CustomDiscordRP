@@ -2,15 +2,14 @@
     "config": {
         "ID":"773899757155516416",
         "STATE":"play",
-        "DETAILS":"CustomDiscordRP",
+        "DETAILS":"DETAILS",
         "LARGE_IMG":"cdrp",
         "SMALL_IMG":"cdrp",
-        "LARGE_TEXT":"CustomDiscordRP",
-        "SMALL_TEXT":"CustomDiscordRP"
+        "LARGE_TEXT":"LARGE TEXT",
+        "SMALL_TEXT":"SMALL TEXT"
     },
 
-    "default": {
-        "ID": "773899757155516416",
-        "LARGE_IMG":"cdrp"
+    "configargs": {
+        "TIMESTAMP":"true"
     }
 }
