@@ -9,5 +9,5 @@ STATE LIST
 - listen
 ...
 
-INFO
-"Before starting the SCript press on 'install.bat' file!"
+INFO<br>
+Before starting the Script press on 'install.bat' file!
